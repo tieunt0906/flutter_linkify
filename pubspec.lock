@@ -16,9 +16,11 @@ packages:
   linkify:
     dependency: "direct main"
     description:
-      name: linkify
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: da78ec7a438ec790345a40787a8a2f4a97a4604f
+      url: "https://github.com/tieunt0906/linkify.git"
+    source: git
     version: "2.0.3"
   meta:
     dependency: transitive
